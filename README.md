@@ -1,5 +1,12 @@
-# A-EYE-Mobile-Application-for-Visually-Impaired-People.
-A-EYE is a Flutter based mobile application which uses deep learning for object detection provides the name of the object and its position relative to the user (either left side or right side) as an audio output. It also uses Optical Character Recognition to scan text and provide the price and expiry date of the product.    
+# A-EYE: Mobile Application for Visually Impaired People.
+
+### Overview
+A-EYE is a Flutter based mobile application. This application helps the visulaly impaired people to visualise and navigate through their surroundings. All they have to do is to launch the app using Google's TalkBack feature, and then onwards, the app will take care of the rest. Once, the user in inside the app, the app warmly invites the user and gives them the choice of Object Detection or OCR. 
+- In the Object Detection module, the user will just have to point the mobile's camera to the world, and the app will start detecting objects in real-time. 
+- In the OCR, the user just has to point the mobile's camera at a price tag of a product. After that, the app will tell the user about the price, expiry date, etc of that product.
+
+
+The app uses deep learning for object detection provides the name of the object and its position relative to the user (either left side or right side) as an audio output. It also uses Optical Character Recognition to scan text and provide the price and expiry date of the product.    
 
 - Flutter framework was used to develop this application, thus, this app will run on Android as well as on iOS platforms.  
 - TensorFlow Lite and MobileNet provide the necessary dependencies and will do the required object detection.    
