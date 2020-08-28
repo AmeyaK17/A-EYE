@@ -34,6 +34,7 @@ To do this we have divided the photo into two halves. The lower half is generall
 <img src="images/homepage.png" height="300" alt="my image">      <img src="images/object_detection.png" height="300" alt="my image">      <img src="images/ocr.png" height="300" alt="my image">  
 
 
+### Thank you! ☺️
 
 
 
